@@ -12,5 +12,10 @@ Trust verified across two months, a strong correlation between admission rate an
 4-hour wait breaches, and several Trusts showing sharp month-over-month deterioration.
 
 **Tools:** Python, pandas, matplotlib
+
+### [Project 2: NHS RTT Waiting Times Dashboard (Power BI)](./project-02-rtt-dashboard)
+Interactive dashboard analyzing NHS Referral to Treatment waiting times across 215 NHS Trusts and 7 regions in England (April–May 2026). Key findings include a mismatch between backlog size and treatment speed — London carries the largest waiting list nationally but ranks 2nd best for on-time treatment, while several smaller regions perform worse.
+
+**Tools:** Power BI (Power Query, DAX), Excel
 ---
 More projects coming soon.
