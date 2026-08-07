@@ -39,8 +39,16 @@ While building the "% within 18 weeks" measure, I initially used a simple `AVERA
 ## Dashboard pages
 
 1. **Overview** — headline KPIs, Top 10 Trusts by backlog size, Bottom 10 Trusts by on-target performance
+
+![Overview page](outputs/overview-page.png)
+
 2. **Trust Comparison** — April vs May by Trust, colour-coded month-over-month change
+
+![Trust Comparison page](outputs/trust-comparison-page.png)
+
 3. **Regional & Trends** — backlog and performance by region, and by medical specialty
+
+![Regional and Trends page](outputs/regional-page.png)
 
 ## Tools
 
